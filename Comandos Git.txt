@@ -1,0 +1,25 @@
+
+### GitHub ###
+elliotgaramendi
+https://github.com/elliotgaramendi/learning-git
+
+Introducción a Git y GitHub
+https://www.youtube.com/playlist?list=PL-v-u4fOImqeo1bD51UtBdhB_b6uW8bIa
+
+Bootstrap Icons
+https://icons.getbootstrap.com/
+Se busca con control F4 la palabra cnd ys e copia el lñink
+
+### COMANDOS ####
+git config --global user.email argenis429@gmail.com
+git config --global user.name auribe83
+
+### LINK REFERENCE BOOTSTRAP ####
+<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-QWTKZyjpPEjISv5WaRU9OFeRpok6YctnYmDr5pNlyT2bRjXh0JMhjY6hW+ALEwIH" crossorigin="anonymous">
+
+### HOSTING ###
+ www.000webhost.com
+
+### DESPLIEGUE DE PAGINAS DESDE GITHUB ### 
+
+https://auribe83.github.io/rep_prueba/
